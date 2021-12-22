@@ -63,7 +63,7 @@ termux_banner = f"""{white}
  {lyellow}| | \ \ ____) | |_| | |_) | (_| |  
  {lyellow}|_|  \_\_____/ \__,_|_.__/ \__,_|  
             
-Version: 1.0 By wRRulos (Termux Edition)"""
+ Version: 1.0 By wRRulos (Termux Edition)"""
 
 
 def check_os():
@@ -162,7 +162,7 @@ def scan():
             number_of_lines += 1
 
     if os_name == "Termux":
-        print(f"\n{termux_banner}\n Scanning the domain {lgreen}{domain}{white}..\n\n File: {file} ({number_of_lines} subdomains)")
+        print(f"\n{termux_banner}\n\n Scanning the domain {lgreen}{domain}{white}..\n\n File: {file} ({number_of_lines} subdomains)")
 
     else:
         print(f"\n{banner}\n\n Scanning the domain {lgreen}{domain}{white}..\n\n File: {file} ({number_of_lines} subdomains)")
