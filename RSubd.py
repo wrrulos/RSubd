@@ -210,6 +210,7 @@ def scan():
 
 if __name__ == "__main__":
     print("")
+    check_os()
     check_connection()
     check_arguments()
     clear()
