@@ -78,7 +78,8 @@ def check_os():
         if os.path.exists("/data/data/com.termux/files/home"):
             os_name = "Termux"
 
-        os_name = "Linux"
+        else:
+            os_name = "Linux"
 
     print(os_name)
 
