@@ -63,8 +63,7 @@ termux_banner = f"""{white}
  {lyellow}| | \ \ ____) | |_| | |_) | (_| |  
  {lyellow}|_|  \_\_____/ \__,_|_.__/ \__,_|  
             
-  Version: 1.0 By wRRulos (Termux Edition)                
-"""
+Version: 1.0 By wRRulos (Termux Edition)"""
 
 
 def check_os():
