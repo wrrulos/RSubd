@@ -81,8 +81,6 @@ def check_os():
         else:
             os_name = "Linux"
 
-    print(os_name)
-
 
 def clear():
     if os.name == "nt":
