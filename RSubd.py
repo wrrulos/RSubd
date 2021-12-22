@@ -80,6 +80,8 @@ def check_os():
 
         os_name = "Linux"
 
+    print(os_name)
+
 
 def clear():
     if os.name == "nt":
@@ -211,7 +213,7 @@ def scan():
 if __name__ == "__main__":
     print("")
     check_os()
-    check_connection()
     check_arguments()
+    check_connection()
     clear()
     scan()
