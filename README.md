@@ -18,7 +18,7 @@
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/wrrulos/RSubd.git
+$ git clone https://github.com/wrrulos/RSubd
 
 # Go into the RSubd folder
 $ cd RSubd
