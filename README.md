@@ -59,6 +59,7 @@ python3 RSubd.py -d facebook.com -l default.txt -sv logs.txt
 ## 📸 Screenshots
 
 <img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RSubd/1.PNG">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RSubd/2.PNG">
 
 ## 🎞 Video 
 [![Watch the video](https://github.com/wrrulos/Imagenes-Github/blob/main/MCPTool/Miniatura.jpg?raw=true)](https://youtu.be/9m7KNd9EHBI)
