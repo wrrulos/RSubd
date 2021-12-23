@@ -21,7 +21,7 @@
 $ git clone https://github.com/wrrulos/RSubd.git
 
 # Go into the RSubd folder
-# cd RSubd
+$ cd RSubd
 
 # Install the requirements
 $ python3 -m pip install -r requirements.txt
@@ -59,6 +59,10 @@ python3 RSubd.py -d facebook.com -l default.txt -sv logs.txt
 ## 📸 Screenshots
 
 <img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RSubd/2.PNG">
+
+# Termux
+
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RSubd/3.PNG">
 
 ## Licencia 
 
