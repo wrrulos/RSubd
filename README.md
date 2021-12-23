@@ -54,13 +54,11 @@ python3 RSubd.py -d facebook.com -l default.txt -s
 Scan a domain using the list of subdomains in the file "default.txt" and save the results in the file "logs.txt"
 ```
 python3 RSubd.py -d facebook.com -l default.txt -sv logs.txt
-
+```
 
 ## 📸 Screenshots
 
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/MCPTool/1.PNG.jpg">
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/MCPTool/2.PNG.jpg">
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/MCPTool/3.PNG.jpg">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RSubd/1.PNG">
 
 ## 🎞 Video 
 [![Watch the video](https://github.com/wrrulos/Imagenes-Github/blob/main/MCPTool/Miniatura.jpg?raw=true)](https://youtu.be/9m7KNd9EHBI)
